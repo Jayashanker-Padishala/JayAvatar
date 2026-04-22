@@ -1,7 +1,7 @@
 # Updated versions for security fixes
 fastapi>=0.115.0
 uvicorn>=0.30.0
-redis>=5.2.0
+redis>=7.4.0
 python-multipart>=0.0.18
 requests>=2.32.0
 python-dotenv>=1.0.1
