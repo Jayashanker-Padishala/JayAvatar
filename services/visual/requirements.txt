@@ -1,6 +1,6 @@
 # Visual service requirements - security updated
 torch>=2.4.0 --index-url https://download.pytorch.org/whl/cu130
-torchvision>=0.19.0 --index-url https://download.pytorch.org/whl/cu130
+torchvision>=0.27.0 --index-url https://download.pytorch.org/whl/cu130
 torchaudio>=2.4.0 --index-url https://download.pytorch.org/whl/cu130
 numpy<2.0
 opencv-python>=4.10.0
