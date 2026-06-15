@@ -31,7 +31,7 @@ flask>=3.1.0
 requests>=2.32.0
 
 # Utils
-tqdm>=4.67.0
+tqdm>=4.68.2
 pyyaml>=6.0.2
 python-dotenv>=1.0.1
 redis>=7.4.0
